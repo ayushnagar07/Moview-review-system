@@ -25,10 +25,10 @@ The Movie Review System is a web application built using PHP that allows users t
 * Update the configuration:
 * Start your server and navigate to the project folder in the browser
 
-**Usage**<br>
+**3.Usage**<br>
     * **1.Home Page:** Lists all movies with reviews and ratings.<br>
     * **2.User:** Register or log in to post reviews.<br>
     * **3.Admin:** Access the admin panel via /admin (default credentials can be found in the admin table in the database).<br>
 
-**Contributing**
+**4.Contributing**
 * Feel free to submit pull requests or open issues for bug fixes and new features.
