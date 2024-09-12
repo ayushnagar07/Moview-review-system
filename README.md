@@ -11,24 +11,24 @@ The Movie Review System is a web application built using PHP that allows users t
 **5.Admin Panel:** Administrators can add, update, or delete movies and moderate reviews.<br>
 
 **Installation**<br>
-**1.Requirements**
-* PHP 7.x or higher
-* MySQL/MariaDB
-* Apache/Nginx Web Server
+* 1.Requirements
+    * PHP 7.x or higher
+    * MySQL/MariaDB
+    *  Apache/Nginx Web Server
 
-**2.Setup**
-* Clone the repository or download the source files.<br>
-   git clone https://github.com/username/movie-review-system.git
-* Import the database:
-     * Create a MySQL database (e.g., movie_review_db).
-     * Import the provided SQL file (movie_review_db.sql) into the database.
-* Update the configuration:
-* Start your server and navigate to the project folder in the browser
+* 2.Setup
+     * Clone the repository or download the source files.<br>
+          * git clone https://github.com/username/movie-review-system.git
+     * Import the database:
+          * Create a MySQL database (e.g., movie_review_db).
+          * Import the provided SQL file (movie_review_db.sql) into the database.
+     * Update the configuration:
+     * Start your server and navigate to the project folder in the browser
 
-**3.Usage**<br>
+**Usage**<br>
     * **1.Home Page:** Lists all movies with reviews and ratings.<br>
     * **2.User:** Register or log in to post reviews.<br>
     * **3.Admin:** Access the admin panel via /admin (default credentials can be found in the admin table in the database).<br>
 
-**4.Contributing**
-* Feel free to submit pull requests or open issues for bug fixes and new features.
+**Contributing**
+   * Feel free to submit pull requests or open issues for bug fixes and new features.
