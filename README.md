@@ -18,7 +18,7 @@ The Movie Review System is a web application built using PHP that allows users t
 
 * 2.Setup
      * Clone the repository or download the source files.<br>
-          * git clone https://github.com/username/movie-review-system.git
+          * https://github.com/ayushnagar07/Moview-review-system.git
      * Import the database:
           * Create a MySQL database (e.g., movie_review_db).
           * Import the provided SQL file (movie_review_db.sql) into the database.
